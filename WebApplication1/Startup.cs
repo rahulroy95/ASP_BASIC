@@ -42,7 +42,8 @@ namespace WebApplication1
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+                username=rahulroyyadav95@gmail.com
+                password=freewifi12
             app.UseRouting();
 
             app.UseAuthorization();
